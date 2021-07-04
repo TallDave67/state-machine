@@ -30,7 +30,7 @@ These folks inspired me to use transition arcs as the core of the state machine.
 
 I looked at a few examples of how people are structuring their CMake projects.
 
-[Gitlab](https://cliutils.gitlab.io/modern-cmake/chapters/basics/structure.html}
+[Gitlab](https://cliutils.gitlab.io/modern-cmake/chapters/basics/structure.html)
 
 [Medium](https://medium.com/swlh/c-project-structure-for-cmake-67d60135f6f5)
 
