@@ -42,7 +42,7 @@ My tree looks like many you have seen before and I figured out a way to have CMa
 
 ## Description
 
-If you only look at one file then choose /src/machine/machine-state-transition.hpp where you will find the state transition table from which the rest of the code sprung.
+If you only look at only one file in the codebase then start with /src/machine/machine-state-transition.hpp where you will find the state transition table from which the rest of the code sprung.
 
 When you run the program enter the events that occur on the command line and you will see the state machine progress through its states.
 
