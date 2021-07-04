@@ -1,6 +1,6 @@
 # State Machine (C++11)
 
-This project demonstrates how a state machine can be used to fromalize the control flow of your program in C++20.
+This project demonstrates how a state machine can be used to formalize the control flow of your program in C++20.
 
 Linux distro "Pop!_OS 21.04"
 
